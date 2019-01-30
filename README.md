@@ -1,1 +1,1 @@
-# Assignments (In Progress) for 6.867 - Machine Learning (MIT) 
+# Assignments for 6.867 - Machine Learning (MIT) 
